@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=victor30608&show_icons=true&theme=gotham" alt="victor30608" />
+### 📊 Github Stats
+<a href='https://github.com/victor30608/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/victor30608/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/victor30608/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
