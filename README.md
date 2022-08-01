@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 
 
 ### 📊 Github Stats
-<a href='https://github.com/victor30608/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/victor30608/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/victor30608/github-stats-transparent/output/generated/languages.svg)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
 
 </a>
 
