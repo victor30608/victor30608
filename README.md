@@ -1,9 +1,7 @@
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Middle Computer Vision at [Metacommerce](https://www.metacommerce.ru/) \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, inertial sensors, and sensor fusion.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2004 with 10+ years of experience in enterprise wide software development.\
-
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Middle Computer Vision at [Metacommerce](https://www.metacommerce.ru/).\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science, innovation and automation.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching neural networks architecture, creating detection algorithms for embedded systems.\
+&nbsp;&nbsp;&nbsp;❤️ Open Source Software
 <!--
 **victor30608/victor30608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,6 +27,5 @@ Here are some ideas to get you started:
 <img src='https://github-readme-stats.vercel.app/api?username=victor30608&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=victor30608&theme=tokyonight&hide_langs_below=4&count_private=true' />
 
-</a>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=&left_color=green&right_color=red)
-<br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=victor30608&left_color=green&right_color=red)
