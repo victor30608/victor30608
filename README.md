@@ -11,8 +11,6 @@
 
 ### 📊 Github Stats
 <img src='https://github-readme-stats.vercel.app/api?username=victor30608&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=victor30608&theme=tokyonight&hide_langs_below=4&count_private=true' />
+<img src=https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victor30608&theme=tokyonight />
 
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=victor30608&left_color=black&right_color=red)
